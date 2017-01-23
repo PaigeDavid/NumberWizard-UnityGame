@@ -4,5 +4,5 @@ These were completed by following a Udemy Course online. More will be added as I
 ##How to run  
 Clone the repository and open the project in Unity. The console will be where the game takes place.
 
-## NumberWizard-UnityGame  
+### NumberWizard-UnityGame  
 Very simple Unity console based game where the computer guesses the user's number between 1 and 1000.  
